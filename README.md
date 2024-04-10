@@ -1,6 +1,6 @@
 # Exercise 2
 
-Disclaimer: The data presented in this exercise is purely fictive and crafted for educational purposes only.
+**Disclaimer: The data presented in this exercise is purely fictive and crafted for educational purposes only.**
 
 1. Start by creating two new sheets in your workbook, naming them "Books" and "Company".
 
